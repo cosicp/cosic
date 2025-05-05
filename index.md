@@ -6,4 +6,4 @@ nav_order: 1
 
 
 
-# Welcome to the laser melting suit of solvers 
+# Welcome to the laser melting suit of solversxd
