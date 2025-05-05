@@ -7,6 +7,7 @@ parent: Solvers
 
 # laserBeamFoam
 
+## Description
 A volume-of-fluid (VOF) solver for studying high energy density laser-based
 advanced manufacturing processes and laser-substrate interactions. This
 implementation treats the metallic substrate and shielding gas phase as
