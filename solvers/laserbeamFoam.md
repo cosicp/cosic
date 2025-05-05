@@ -30,6 +30,7 @@ from the adiabatic two-phase interFoam code developed by
 [OpenCFD Ltd.](http://openfoam.com/) to include non-isothermal state transition
 physics and ray-tracing heat source application.</style>
 
+<p>
 
 A volume-of-fluid (VOF) solver for studying high energy density laser-based
 advanced manufacturing processes and laser-substrate interactions. This
@@ -51,5 +52,5 @@ domain through their multiple reflections, with the energy deposited by each
 ray determined through the Fresnel equations. The solver approach is extended
 from the adiabatic two-phase interFoam code developed by
 [OpenCFD Ltd.](http://openfoam.com/) to include non-isothermal state transition
-physics and ray-tracing heat source application.
+physics and ray-tracing heat source application. </p>
 
