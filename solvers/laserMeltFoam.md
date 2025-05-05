@@ -6,8 +6,6 @@ parent: Solvers
 ---
 
 # laserMeltFoam
-
-laserMeltFoamlaserMeltFoamlaserMeltFoam
 laserMeltFoamlaserMeltFoamlaserMeltFoam
 laserMeltFoamlaserMeltFoamlaserMeltFoam
 laserMeltFoamlaserMeltFoamlaserMeltFoam
