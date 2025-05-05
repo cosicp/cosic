@@ -5,6 +5,8 @@ nav_order: 2
 parent: Solvers
 ---
 
-# Solvers
+# laserBeamFoam
 {: .no_toc }
+
+laserBeamFoam
 
