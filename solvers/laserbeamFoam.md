@@ -53,4 +53,6 @@ from the adiabatic two-phase interFoam code developed by
 [OpenCFD Ltd.](http://openfoam.com/) to include non-isothermal state transition
 physics and ray-tracing heat source application. </p>
 
-$$\frac{\partial \omega}{\partial x}$$
+$$ 
+\frac{\partial \omega}{\partial x}
+$$
