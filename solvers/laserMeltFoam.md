@@ -6,7 +6,6 @@ parent: Solvers
 ---
 
 # laserMeltFoam
-{: .no_toc }
 
 laserMeltFoamlaserMeltFoamlaserMeltFoam
 laserMeltFoamlaserMeltFoamlaserMeltFoam
