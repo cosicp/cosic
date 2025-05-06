@@ -7,7 +7,7 @@ nav_order: 2
 # Solvers
 
 
-![alt text](../flow.png)
+![alt text](../flow.drawio.svg)
 
 it says it is not building but it is
 
