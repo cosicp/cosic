@@ -12,8 +12,9 @@ parent: Solvers
 
 ## Source code
 
+</br>
+
 [laserMeltFoam GitHub repository (foam-extend-4.0)](https://github.com/thaman1602/PBFSolvers/tree/main/OpenFOAM/thermofluid/solvers){:target="_blank"} 
+
 [laserMeltFoam GitHub repository (OpenFOAM v2412)](https://github.com/laserbeamfoam/laserMeltFoam){:target="_blank"} 
 
-<p>[laserMeltFoam GitHub repository (foam-extend-4.0)](https://github.com/thaman1602/PBFSolvers/tree/main/OpenFOAM/thermofluid/solvers){:target="_blank"} </br>
-[laserMeltFoam GitHub repository (OpenFOAM v2412)](https://github.com/laserbeamfoam/laserMeltFoam){:target="_blank"} </p>
