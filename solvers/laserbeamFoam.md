@@ -7,11 +7,9 @@ parent: Solvers
 
 # laserbeamFoam
 
-![alt text](https://github.com/micmog/LaserbeamFoam/blob/main/images/Powder.png?raw=true){:target="_blank"} 
+![alt text](https://github.com/micmog/LaserbeamFoam/blob/main/images/Powder.png?raw=true)
 
 ## Source code
-
-<br>
 
 [laserbeamFoam GitHub repository (OpenFOAM 10)](https://github.com/laserbeamfoam/LaserbeamFoam){:target="_blank"} 
 
