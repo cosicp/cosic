@@ -6,6 +6,9 @@ nav_order: 2
 
 # Solvers
 
+
+![alt text](../flow.png)
+
 it says it is not building but it is
 
 it is
