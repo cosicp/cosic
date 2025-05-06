@@ -7,7 +7,7 @@ nav_order: 2
 # Solvers
 
 
-![alt text](../flow2.svg)
+![alt text](../flow3.svg)
 
 it says it is not building but it is
 
