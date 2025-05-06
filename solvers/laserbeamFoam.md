@@ -7,14 +7,14 @@ parent: Solvers
 
 # laserbeamFoam
 
+![alt text](https://github.com/micmog/LaserbeamFoam/blob/main/images/Powder.png?raw=true)
+
 ## Source code
 
 [laserbeamFoam GitHub repository (OpenFOAM 10)](https://github.com/laserbeamfoam/LaserbeamFoam)
 
 ## Overview
 Presented here is a growing suite of solvers that describe laser-substrate interaction. This repository begins with the `laserbeamFoam` solver. Additional solvers are being added incrementally.
-
-![alt text](https://github.com/micmog/LaserbeamFoam/blob/main/images/Powder.png?raw=true)
 
 Currently, this repository contains:
 ### `laserbeamFoam`
