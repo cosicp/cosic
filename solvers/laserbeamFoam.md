@@ -8,6 +8,7 @@ parent: Solvers
 # laserbeamFoam
 
 ## Source code
+
 [laserbeamFoam GitHub repository (OpenFOAM 10)](https://github.com/laserbeamfoam/LaserbeamFoam)
 
 ## Overview
