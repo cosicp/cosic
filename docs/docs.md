@@ -24,6 +24,7 @@ nav_order: 3
 
 1. [A numerical study of processing parameters and their effect on the melt-track profile in Laser Powder Bed Fusion processes](https://www.sciencedirect.com/science/article/pii/S2214860423000957) <br>
 Parivendhan, G., Cardiff, P., Flint, T., Tuković, Ž., Obeidi, M., Brabazon, D., Ivanković, A. (2023), Additive Manufacturing, 67, 10.1016/j.addma.2023.103482.<br>
+https://doi.org/10.1016/j.addma.2023.103482
 
 ## beamWeldFoam relevant publications
 
@@ -31,3 +32,4 @@ Parivendhan, G., Cardiff, P., Flint, T., Tuković, Ž., Obeidi, M., Brabazon, D.
 
 1. [beamWeldFoam: Numerical simulation of high energy density fusion and vapourisation-inducing processes.](https://www.sciencedirect.com/science/article/pii/S2352711022000504) <br>
 Flint, T. F., Parivendhan, G., Ivankovic, A., Smith, M. C., & Cardiff, P. (2022).  SoftwareX, 18, 101065.<br>
+https://doi.org/10.1016/j.softx.2022.101065
