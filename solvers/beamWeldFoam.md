@@ -9,7 +9,8 @@ parent: Solvers
 
 ## Source code
 
-[beamWeldFoam GitHub repository (OpenFOAM 6)](https://github.com/tomflint22/beamWeldFoam)</br>
+[beamWeldFoam GitHub repository (OpenFOAM 6)](https://github.com/tomflint22/beamWeldFoam)
+</br>
 [beamWeldFoam GitHub repository (OpenFOAM 10)](https://github.com/tomflint22/beamWeldFoam/tree/OF10)
 
 
