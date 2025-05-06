@@ -7,7 +7,7 @@ parent: Solvers
 
 # laserMeltFoam
 
-![alt text](example_sim.gif)
+![alt text](../example_sim.gif)
 
 laserMeltFoamlaserMeltFoamlaserMeltFoam
 laserMeltFoamlaserMeltFoamlaserMeltFoam
