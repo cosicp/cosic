@@ -1,5 +1,5 @@
 ---
-title: beamWeldFoam tutorials
+title: Tutorials
 layout: page
 nav_order: 2
 parent: beamWeldFoam
