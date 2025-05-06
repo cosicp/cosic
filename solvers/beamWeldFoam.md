@@ -7,6 +7,8 @@ parent: Solvers
 
 # beamWeldFoam
 
+<br>
+
 ![alt text](../beamweldfoam.png)
 
 ## Source code
