@@ -10,7 +10,7 @@ nav_order: 5
 
 <br>
 
-<img align="left" width="150" style="padding-right:10px" src="images/tom.jpeg"/>
+<img align="left" width="180" style="padding-right:10px" src="images/tom.jpeg"/>
 
 # Tom Flint
 
@@ -20,7 +20,7 @@ Some text
 
 ---
 
-<img align="left" width="200" padding="10" src="images/philip.jpeg"/>
+<img align="left" width="180" padding="10" src="images/philip.jpeg"/>
 
 # Philip Cardiff
 
@@ -30,7 +30,7 @@ Some text
 
 ---
 
-<img align="left" width="200" padding="10" src=""/>
+<img align="left" width="180" padding="10" src=""/>
 
 # Petar Cosic
 
@@ -41,7 +41,7 @@ Some text
 
 ---
 
-<img align="left" width="200" padding="10" src="images/simon.jpeg"/>
+<img align="left" width="180" padding="10" src="images/simon.jpeg"/>
 
 # Simon Rodriguez
 
