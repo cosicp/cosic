@@ -1,17 +1,4 @@
-@import "custom";        // imports _sass/custom.scss
-@import "just-the-docs"; // imports the default styles
-
-.nav-list-item a{
-color: red;
-}
-
-.nav-list-item {
-color: red;
-}
-
-.nav-list-link {
-color: red;
-}
-
-.side-bar{
-  background-color: rgb(0, 0, 0);}
+$theme-color-primary: #1e90ff; // Dodger Blue
+$body-background-color: #f9f9f9;
+$body-text-color: #1a1a1a;
+$link-color: #ff4500; // OrangeRed
