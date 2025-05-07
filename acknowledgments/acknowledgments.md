@@ -17,8 +17,7 @@ nav_order: 6
 <br> 
 
 ---
-<br> 
-<img align="left" width="170" style="padding-right:30px" src="images/UoM.png"/>
+<img align="left" width="170" style="padding-right:30px;padding-top:30;" src="images/UoM.png"/>
 ## University of Manchester
 
 <br> 
@@ -31,7 +30,7 @@ nav_order: 6
 <br> 
 
 ---
-<img align="left" width="170" style="padding-right:30px" src="images/hrinstitute.png"/>
+<img align="left" width="190" style="padding-right:30px" src="images/hrinstitute.png"/>
 ## Henry Royce Institute
 
 <br> 
