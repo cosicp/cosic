@@ -10,10 +10,10 @@ nav_order: 5
 <img align="left" width="170" style="padding-right:30px" src="images/tom.jpeg"/>
 ## Tom Flint
 
-<img align="left"  width="22" style="padding-right:5px;padding-top:3px" src="building.svg"> The University of Manchester / Henry Royce Institute<br> 
-<img align="left"  width="22" style="padding-right:5px;padding-top:3px" src="mail.svg"> tom.flint@manchester.ac.uk <br>
-<img align="left"  width="22" style="padding-right:5px;padding-top:3px" src="github_svg.svg"> [tomflint22](https://github.com/tomflint22){:target="_blank"}  <br> 
-<img align="left"  width="22" style="padding-right:5px;padding-top:3px" src="orcid.png"> [0000-0002-0615-8621](https://orcid.org/0000-0002-0615-8621){:target="_blank"} <br> 
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="building.svg"> The University of Manchester / Henry Royce Institute<br> 
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="mail.svg"> tom.flint@manchester.ac.uk <br>
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="github_svg.svg"> [tomflint22](https://github.com/tomflint22){:target="_blank"}  <br> 
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="orcid.png"> [0000-0002-0615-8621](https://orcid.org/0000-0002-0615-8621){:target="_blank"} <br> 
 
 ---
 <img align="left" width="170" style="padding-right:30px" src="images/philip.jpeg"/>
