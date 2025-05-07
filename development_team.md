@@ -10,8 +10,8 @@ nav_order: 5
 <img align="left" width="170" style="padding-right:15px" src="images/tom.jpeg"/>
 ## Tom Flint
 
-Some text1
-Some text2
+Some text1 <br>
+Some text2<br>
 Some text3
 
 <br>
