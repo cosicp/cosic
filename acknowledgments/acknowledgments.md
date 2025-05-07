@@ -8,7 +8,7 @@ nav_order: 6
 # Acknowledgments
 
 ---
-<img align="left" width="140" style="padding-right:8px;padding-left:8px" src="images/UCD.png"/>
+<img align="left" width="140" style="padding-right:9px;padding-left:9px" src="images/UCD.png"/>
 ## University College Dublin
 
 <img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/adress.svg"> Belfield, Dublin 4, Ireland<br> 
