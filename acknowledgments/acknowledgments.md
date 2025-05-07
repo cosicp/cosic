@@ -17,7 +17,7 @@ nav_order: 6
 <br> 
 
 ---
-<img align="left" width="170" style="padding-right:30px;" src="images/UoM.png"/>
+<img align="left" width="170" style="padding-right:30px;padding-top:8px;" src="images/UoM.png"/>
 ## University of Manchester
 
 <br> 
