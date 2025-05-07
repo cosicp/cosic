@@ -14,7 +14,6 @@ Some text
 
 <br>
 <br>
-
 ---
 <img align="left" width="170" style="padding-right:15px" src="images/philip.jpeg"/>
 # Philip Cardiff
