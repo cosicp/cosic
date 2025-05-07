@@ -7,23 +7,23 @@ nav_order: 5
 # Development team
 
 ---
-
-<br>
-
 <img align="left" width="180" style="padding-right:15px" src="images/tom.jpeg"/>
 # Tom Flint
 
 Some text
 
 <br>
+<br>
+<br>
 
 ---
-
 <img align="left" width="180" style="padding-right:15px" src="images/philip.jpeg"/>
 # Philip Cardiff
 
 Some text
 
+<br>
+<br>
 <br>
 
 ---
