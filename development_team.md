@@ -6,19 +6,17 @@ nav_order: 5
 
 # Development team
 
-<br>
 ---
 
-<img align="left" width="200" style="padding-right:10px" src="images/tom.jpeg"/>
+<br>
+
+<img align="left" width="150" style="padding-right:10px" src="images/tom.jpeg"/>
 
 # Tom Flint
 
 Some text
 
 <br>
-
-
-
 
 ---
 
