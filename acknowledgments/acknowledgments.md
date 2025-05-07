@@ -14,10 +14,10 @@ nav_order: 6
 <br> 
 <br> 
 <br> 
+<br> 
 
 ---
 <br> 
-
 <img align="left" width="170" style="padding-right:30px" src="images/UoM.png"/>
 ## University of Manchester
 
@@ -29,13 +29,11 @@ nav_order: 6
 
 <br> 
 <br> 
-<br> 
 
 ---
 <img align="left" width="170" style="padding-right:30px" src="images/hrinstitute.png"/>
 ## Henry Royce Institute
 
-<br> 
 <br> 
 <br> 
 
