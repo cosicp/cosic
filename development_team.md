@@ -8,7 +8,7 @@ nav_order: 5
 
 ---
 <img align="left" width="170" style="padding-right:15px" src="images/tom.jpeg"/>
-# Tom Flint
+## Tom Flint
 
 Some text
 
@@ -16,7 +16,7 @@ Some text
 <br>
 ---
 <img align="left" width="170" style="padding-right:15px" src="images/philip.jpeg"/>
-# Philip Cardiff
+## Philip Cardiff
 
 Some text
 
@@ -25,7 +25,7 @@ Some text
 
 ---
 <img align="left" width="170" style="padding-right:15px" src=""/>
-# Petar Cosic
+## Petar Cosic
 
 Some text
 
@@ -35,7 +35,7 @@ Some text
 
 ---
 <img align="left" width="170" style="padding-right:15px" src="images/simon.jpeg"/>
-# Simon Rodriguez
+## Simon Rodriguez
 
 Some text
 
