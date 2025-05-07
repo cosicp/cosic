@@ -11,7 +11,7 @@ nav_order: 5
 ## Tom Flint
 
 :e-mail: tom.flint@manchester.ac.uk <br>
-<img align="left"  width="50" src="mail.svg"> Some text2 <br>
+<img align="left"  width="10" src="mail.svg"> Some text2 <br> 
 
 <br>
 <br>
