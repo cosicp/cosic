@@ -14,6 +14,7 @@ nav_order: 5
 <img align="left"  width="22" style="padding-right:5px;padding-top:3px" src="github_svg.svg"> [tomflint22](https://github.com/tomflint22) <br> 
 <img align="left"  width="22" style="padding-right:5px;padding-top:3px" src="building.svg"> The University of Manchester, Henry Royce Institute<br> 
 <img align="left"  width="22" style="padding-right:5px;padding-top:3px" src="building.svg"> The University of Manchester <br> 
+
 ---
 <img align="left" width="170" style="padding-right:30px" src="images/philip.jpeg"/>
 ## Philip Cardiff
@@ -22,6 +23,7 @@ nav_order: 5
 <img align="left"  width="22" style="padding-right:5px;padding-top:3px" src="github_svg.svg"> [philipcardiff](https://github.com/philipcardiff) <br> 
 <img align="left"  width="22" style="padding-right:5px;padding-top:3px" src="building.svg"> University College Dublin, I-Form<br> 
 <img align="left"  width="22" style="padding-right:5px;padding-top:3px" src="building.svg"> The University of Manchester <br> 
+
 ---
 <img align="left" width="170" style="padding-right:30px" src=""/>
 ## Petar Cosic
