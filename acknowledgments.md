@@ -5,8 +5,8 @@ nav_order: 6
 ---
 
 
-<img align="left" width="200" src="images/tom.jpeg" />
+<!-- <img align="left" width="200" src="images/tom.jpeg" /> -->
 
-# Tom Flint
+<!-- # Tom Flint
 
-Some text
+Some text -->
