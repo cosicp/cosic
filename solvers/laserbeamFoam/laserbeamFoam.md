@@ -7,7 +7,7 @@ parent: Solvers
 
 # laserbeamFoam
 
-![alt text](https://github.com/micmog/LaserbeamFoam/blob/main/images/Powder.png?raw=true)
+![alt text](laserbeamFoam.png)
 
 ## Source code
 
