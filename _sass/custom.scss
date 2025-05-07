@@ -1,3 +1,6 @@
+@import "custom";        // imports _sass/custom.scss
+@import "just-the-docs"; // imports the default styles
+
 .nav-list-item a{
 color: red;
 }
