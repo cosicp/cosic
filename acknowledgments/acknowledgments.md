@@ -8,9 +8,8 @@ nav_order: 6
 # Acknowledgments
 
 ---
-<img align="left" width="170" style="padding-right:30px" src="images/hrinstitute.png"/>
-<img align="left" width="170" style="padding-right:30px" src="images/UoM.png"/>
-## Tom Flint
+<img align="left" width="140" style="padding-right:30px" src="images/UCD.png"/>
+## University College Dublin
 
 <br> 
 <br> 
@@ -19,16 +18,7 @@ nav_order: 6
 
 ---
 <img align="left" width="170" style="padding-right:30px" src="images/UoM.png"/>
-## Philip Cardiff
-
-<br> 
-<br> 
-<br> 
-<br> 
-
----
-<img align="left" width="170" style="padding-right:30px" src="images/UCD.png"/>
-## Philip Cardiff
+## University of Manchester
 
 <br> 
 <br> 
@@ -37,7 +27,17 @@ nav_order: 6
 
 ---
 <img align="left" width="170" style="padding-right:30px" src="images/iform.png"/>
-## Philip Cardiff
+## I-Form
+
+<br> 
+<br> 
+<br> 
+<br> 
+
+---
+<img align="left" width="170" style="padding-right:30px" src="images/hrinstitute.png"/>
+<img align="left" width="170" style="padding-right:30px" src="images/UoM.png"/>
+## Henry Royce Institute
 
 <br> 
 <br> 
