@@ -8,7 +8,7 @@ nav_order: 6
 # Acknowledgments
 
 ---
-<img align="left" width="140" style="padding-right:26px;padding-left:26px" src="images/UCD.png"/>
+<img align="left" width="140" style="padding-right:22px;padding-left:22px" src="images/UCD.png"/>
 ## University College Dublin
 
 <br> 
@@ -17,12 +17,10 @@ nav_order: 6
 
 ---
 <br> 
-<br> 
 
 <img align="left" width="170" style="padding-right:30px" src="images/UoM.png"/>
 ## University of Manchester
 
-<br> 
 <br> 
 
 ---
