@@ -9,6 +9,7 @@ nav_order: 6
 
 ---
 <img align="left" width="170" style="padding-right:30px" src="images/hrinstitute.png"/>
+<img align="left" width="170" style="padding-right:30px" src="images/UoM.png"/>
 ## Tom Flint
 
 <br> 
