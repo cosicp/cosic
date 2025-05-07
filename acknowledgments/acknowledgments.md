@@ -12,7 +12,7 @@ nav_order: 6
 ## University College Dublin
 
 <img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/adress.svg"> Belfield, Dublin 4, Ireland<br> 
-<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.ucd.ie/](https://www.ucd.ie/)<br> 
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.ucd.ie/](https://www.ucd.ie/){:target="_blank"} <br> 
 <br>
 
 
@@ -21,7 +21,7 @@ nav_order: 6
 ## University of Manchester
 
 <img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/adress.svg">  Oxford Rd, Manchester M13 9PL, UK<br> 
-<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.manchester.ac.uk](https://www.manchester.ac.uk)<br> 
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.manchester.ac.uk](https://www.manchester.ac.uk){:target="_blank"} <br> 
 
 
 ---
@@ -29,17 +29,14 @@ nav_order: 6
 ## I-Form
 
 <img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/adress.svg">  John Hume Institute, University College Dublin, Belfield, Dublin 4<br> 
-<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.i-form.ie](https://www.i-form.ie)<br> 
-<br> 
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.i-form.ie](https://www.i-form.ie){:target="_blank"} <br> 
 
 ---
 <img align="left" width="170" style="padding-right:30px" src="images/hrinstitute.png"/>
 ## Henry Royce Institute
 
 <img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/adress.svg">  Royce Hub Building, Oxford Rd, Manchester M13 9PL, UK<br> 
-<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.royce.ac.uk](https://www.royce.ac.uk)<br> 
-
-<br> 
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.royce.ac.uk](https://www.royce.ac.uk){:target="_blank"} <br> 
 
 ---
 <br>
