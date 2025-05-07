@@ -9,7 +9,7 @@ parent: Solvers
 
 <br>
 
-![alt text](../beamweldfoam.png)
+![alt text](beamweldfoam.png)
 
 ## Source code
 
