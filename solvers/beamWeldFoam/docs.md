@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Documentation
 layout: page
 nav_order: 2
 parent: beamWeldFoam
