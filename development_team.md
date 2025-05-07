@@ -7,6 +7,7 @@ nav_order: 5
 # Development team
 
 <br>
+---
 
 <img align="left" width="200" padding="10" src="images/tom.jpeg"/>
 
@@ -15,6 +16,9 @@ nav_order: 5
 Some text
 
 <br>
+
+
+
 
 ---
 
@@ -28,7 +32,7 @@ Some text
 
 ---
 
-<img align="left" width="200" padding="10" src="images/philip.jpeg"/>
+<img align="left" width="200" padding="10" src=""/>
 
 # Petar Cosic
 
@@ -39,7 +43,7 @@ Some text
 
 ---
 
-<img align="left" width="200" padding="10" src="images/philip.jpeg"/>
+<img align="left" width="200" padding="10" src="images/simon.jpeg"/>
 
 # Simon Rodriguez
 
