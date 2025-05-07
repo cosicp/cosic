@@ -8,11 +8,11 @@ nav_order: 6
 # Acknowledgments
 
 ---
-<img align="left" width="140" style="margin-right: 23px;" src="images/UCD.png"/>
+<img align="left" width="140" style="margin-right: 25px;" src="images/UCD.png"/>
 ## University College Dublin
 
 <img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/adress.svg"> Belfield, Dublin 4, Ireland<br> 
-<br>
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.ucd.ie/](https://www.ucd.ie/)<br> 
 <br>
 
 
@@ -21,13 +21,15 @@ nav_order: 6
 ## University of Manchester
 
 <img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/adress.svg">  Oxford Rd, Manchester M13 9PL, UK<br> 
-<br> 
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.manchester.ac.uk](https://www.manchester.ac.uk)<br> 
+
 
 ---
 <img align="left" width="170" style="padding-right:30px" src="images/iform.png"/>
 ## I-Form
 
 <img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/adress.svg">  John Hume Institute, University College Dublin, Belfield, Dublin 4<br> 
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.i-form.ie](https://www.i-form.ie)<br> 
 <br> 
 
 ---
@@ -35,6 +37,8 @@ nav_order: 6
 ## Henry Royce Institute
 
 <img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/adress.svg">  Royce Hub Building, Oxford Rd, Manchester M13 9PL, UK<br> 
+<img align="left"  width="22" style="padding-right:6px;padding-top:3px" src="svgs/website.svg"> [https://www.royce.ac.uk](https://www.royce.ac.uk)<br> 
+
 <br> 
 
 ---
