@@ -10,8 +10,7 @@ nav_order: 5
 
 <br>
 
-<img align="left" width="180" style="padding-right:10px" src="images/tom.jpeg"/>
-
+<img align="left" width="180" style="padding-right:15px" src="images/tom.jpeg"/>
 # Tom Flint
 
 Some text
@@ -20,8 +19,7 @@ Some text
 
 ---
 
-<img align="left" width="180" padding="10" src="images/philip.jpeg"/>
-
+<img align="left" width="180" style="padding-right:15px" src="images/philip.jpeg"/>
 # Philip Cardiff
 
 Some text
@@ -30,8 +28,7 @@ Some text
 
 ---
 
-<img align="left" width="180" padding="10" src=""/>
-
+<img align="left" width="180" style="padding-right:15px" src=""/>
 # Petar Cosic
 
 Some text
@@ -41,8 +38,7 @@ Some text
 
 ---
 
-<img align="left" width="180" padding="10" src="images/simon.jpeg"/>
-
+<img align="left" width="180" style="padding-right:15px" src="images/simon.jpeg"/>
 # Simon Rodriguez
 
 Some text
