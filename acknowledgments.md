@@ -5,6 +5,8 @@ nav_order: 6
 ---
 
 
-# How to cite
+<img align="left" width="200" src="images/tom.jpeg" />
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a diam lectus, congue vel laoreet ac, dictum vitae odio.
+# Tom Flint
+
+Some text
