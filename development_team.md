@@ -9,7 +9,7 @@ nav_order: 5
 <br>
 ---
 
-<img align="left" width="200" padding="10" src="images/tom.jpeg"/>
+<img align="left" width="200" style="padding-right:10px" src="images/tom.jpeg"/>
 
 # Tom Flint
 
