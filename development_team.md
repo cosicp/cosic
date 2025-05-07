@@ -10,10 +10,13 @@ nav_order: 5
 <img align="left" width="170" style="padding-right:15px" src="images/tom.jpeg"/>
 ## Tom Flint
 
-Some text
+Some text1
+Some text2
+Some text3
 
 <br>
 <br>
+
 ---
 <img align="left" width="170" style="padding-right:15px" src="images/philip.jpeg"/>
 ## Philip Cardiff
