@@ -7,10 +7,10 @@ nav_order: 5
 # Development team
 
 ---
-<img align="left" width="170" style="padding-right:35px" src="images/tom.jpeg"/>
+<img align="left" width="170" style="padding-right:30px" src="images/tom.jpeg"/>
 ## Tom Flint
 
-:email: tom.flint@manchester.ac.uk <br>
+:e-mail: tom.flint@manchester.ac.uk <br>
 Some text2 <br>
 Some text3
 
@@ -18,7 +18,7 @@ Some text3
 <br>
 
 ---
-<img align="left" width="170" style="padding-right:35px" src="images/philip.jpeg"/>
+<img align="left" width="170" style="padding-right:30px" src="images/philip.jpeg"/>
 ## Philip Cardiff
 
 Some text
@@ -27,7 +27,7 @@ Some text
 <br>
 
 ---
-<img align="left" width="170" style="padding-right:35px" src=""/>
+<img align="left" width="170" style="padding-right:30px" src=""/>
 ## Petar Cosic
 
 Some text
@@ -37,7 +37,7 @@ Some text
 
 
 ---
-<img align="left" width="170" style="padding-right:35px" src="images/simon.jpeg"/>
+<img align="left" width="170" style="padding-right:30px" src="images/simon.jpeg"/>
 ## Simon Rodriguez
 
 Some text
