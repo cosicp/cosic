@@ -9,11 +9,11 @@ nav_order: 1
 
 <br>
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Build and test](https://github.com/laserbeamfoam/LaserbeamFoam/actions/workflows/build.yml/badge.svg?branch=development)](https://github.com/laserbeamfoam/LaserbeamFoam/actions/workflows/build.yml)
-[![Pull Requests](https://img.shields.io/github/issues-pr-raw/laserbeamfoam/LaserbeamFoam?label=Pull%20Requests)](https://github.com/laserbeamfoam/LaserbeamFoam/pulls)
-[![Issues](https://img.shields.io/github/issues/laserbeamfoam/LaserbeamFoam?label=Issues)](https://github.com/laserbeamfoam/LaserbeamFoam/issues)
-[![DOI](https://joss.theoj.org/papers/10.21105/joss.07407/status.svg)](https://doi.org/10.21105/joss.07407)<!--TODO needs to be changed--> 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0){:target="_blank"}
+[![Build and test](https://github.com/laserbeamfoam/LaserbeamFoam/actions/workflows/build.yml/badge.svg?branch=development)](https://github.com/laserbeamfoam/LaserbeamFoam/actions/workflows/build.yml){:target="_blank"}
+[![Pull Requests](https://img.shields.io/github/issues-pr-raw/laserbeamfoam/LaserbeamFoam?label=Pull%20Requests)](https://github.com/laserbeamfoam/LaserbeamFoam/pulls){:target="_blank"}
+[![Issues](https://img.shields.io/github/issues/laserbeamfoam/LaserbeamFoam?label=Issues)](https://github.com/laserbeamfoam/LaserbeamFoam/issues){:target="_blank"}
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.07407/status.svg)](https://doi.org/10.21105/joss.07407){:target="_blank"}<!--TODO needs to be changed--> 
 
 ---
 
