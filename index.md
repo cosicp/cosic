@@ -5,6 +5,9 @@ nav_order: 1
 ---
 
 
+<img align="left"  src="banner.png"> 
+
+
 # Welcome
 
 Welcome to the landing page of the **Laser Melting Suite**. This is a collection of solvers for OpenFOAM, which are used to solve various problems in computational fluid dynamics (CFD) and other fields. The solvers are designed to be easy to use and flexible, allowing users to customize them for their specific needs.
