@@ -8,7 +8,7 @@ nav_order: 6
 # Acknowledgments
 
 ---
-<img align="left" width="140" style="margin-right: 25px;" src="images/UCD.png"/>
+<img align="left" width="140" style="margin-right: 27px;" src="images/UCD.png"/>
 ## University College Dublin
 
 <img align="left"  width="22" style="padding-right:6px;padding-top:4px" src="svgs/adress.svg"> Belfield, Dublin 4, Ireland<br> 
@@ -41,3 +41,8 @@ nav_order: 6
 ---
 <br>
 <br>
+
+
+# Disclaimer
+
+This offering is not approved or endorsed by OpenCFD Limited, producer and distributor of the OpenFOAM software via the OpenFOAM website, and owner of the OPENFOAM® and OpenCFD® trade marks.
