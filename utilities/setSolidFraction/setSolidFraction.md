@@ -9,7 +9,7 @@ parent: Utilities
 
 <br>
 
-<img align="left" width="170" style="padding-right:30px" src="images/particles.gif"/>
-
-![alt text](images/banner.png)
+<img align="left"  width="200"  src="images/particles.gif"> 
+<img align="right"  width="200"  src="images/banner1.png"> 
+<img align="left"   src="images/banner2.png"> 
 
