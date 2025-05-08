@@ -14,21 +14,6 @@ parent: Utilities
 <img align="left"   src="images/banner2.png"> <br>
 
 
-<p></p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Description
 
