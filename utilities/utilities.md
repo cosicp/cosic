@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Available OpenFOAM Utilities
 
-Here you will find a collection of OpenFOAM utilities that can .
+Here you can find a collection and description of various OpenFOAM utilities that provide functionalities useful for specific simulation types.
 
 
 
