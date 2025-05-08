@@ -6,7 +6,7 @@ nav_order: 2
 
 # Solvers
 
- <br/>
+On this page you can see the list of available solvers and their descriptions along with some tutorials and guides on installations and use.
 
 ![alt text](flow11.svg)
 
