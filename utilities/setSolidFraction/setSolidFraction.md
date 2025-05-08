@@ -7,7 +7,9 @@ parent: Utilities
 
 # setSolidFraction
 
- <br>
+<br>
 
-![alt text](flow11.svg)
+<img align="left" width="170" style="padding-right:30px" src="images/particles.gif"/>
+
+![alt text](images/banner.png)
 
