@@ -9,7 +9,7 @@ parent: Utilities
 
 <br>
 
-<img align="left"  width="350"  src="images/particles.gif"> 
+<img align="left" class="utility_image"  width="350"  src="images/particles.gif"> 
 <img align="right"  width="330"  src="images/banner1.png"> <br> 
 <img align="left"   src="images/banner2.png"> <br>
 

@@ -8,7 +8,7 @@ nav_order: 3
 
 ## Available OpenFOAM Utilities
 
-Here you will find a collection of OpenFOAM utilities designed to help with the workflow during .
+Here you will find a collection of OpenFOAM utilities that can .
 
 
 
