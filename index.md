@@ -16,9 +16,7 @@ Welcome to the landing page of the **Laser Melting Suite**. This is a collection
 
 # What is the Laser Melting Suite?
 
-The **Laser Melting Suite** is a collection of **OpenFOAM** solvers and utilities designed for simulating laser melting processes in Laser Powder Bed Fusion, selective laser melting, laser welding and many other.
-
-The suite includes solvers for both 2D and 3D simulations. The solvers are designed to be easy to use and flexible, allowing users to customize them for their specific needs.
+The **Laser Melting Suite** is a collection of **OpenFOAM** solvers and utilities designed for simulating laser melting processes in Laser Powder Bed Fusion, selective laser melting, laser welding and many other. The suite includes solvers for both 2D and 3D simulations. The solvers are designed to be easy to use and flexible, allowing users to customize them for their specific needs.
 
 # Where do I start?
 
