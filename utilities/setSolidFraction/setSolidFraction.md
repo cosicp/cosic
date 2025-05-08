@@ -9,8 +9,7 @@ parent: Utilities
 
 <br>
 
-<img align="right"  width="400"  src="../../solvers/laserMeltFoam/lmf_simulation.gif"> 
-<img align="right"  width="400"  src="images/banner1.png"> <br> 
-
+<img align="left"  width="350"  src="images/particles.gif"> 
+<img align="right"  width="350"  src="images/banner1.png"> <br> 
 <img align="left"   src="images/banner2.png"> 
 
