@@ -7,7 +7,7 @@ nav_order: 5
 
 # How to cite
 
-If you use one of these solvers for a publication, please cite the appropirate reference (see Publications page)
+If you use one of these solvers for a publication, please cite the appropirate reference (see [Publications](../publications/publications.md) page)
 in the following way:
 
 Example (laserbeamFoam):
@@ -15,23 +15,23 @@ Example (laserbeamFoam):
 > laserbeamFoam: Laser ray-tracing and thermally induced state transition simulation toolkit
 > TF Flint, JD Robson, G Parivendhan, P Cardiff
 > SoftwareX, 2023
->  https://doi.org/10.1016/j.softx.2022.101299
+>  https://doi.org/10.1016/j.softx.2022.101299  // TODO CHANGE
 
 
 The corresponding BibTeX entry:
 
 ```bibtex
-@article{Cardiff2025,
+@article{Cardiff2025, // TODO CHANGE
     author =     {TF Flint , JD Robson, G Parivendhan and P Cardiff $},
     title =      {Laser ray-tracing and thermally induced state transition simulation toolkit},
     journal =    {SoftwareX},
-    year =       {2023},
+    year =       {2023}, 
     publisher =  {The Open Journal},
-    volume =     {10},
-    number =     {108},
-    pages =      {7407},
-    doi =        {10.21105/joss.07407},
-    url =        {https://doi.org/10.1016/j.softx.2022.101299}
+    volume =     {10}, // TODO CHANGE
+    number =     {108}, // TODO CHANGE
+    pages =      {7407}, // TODO CHANGE
+    doi =        {10.21105/joss.07407}, // TODO CHANGE
+    url =        {https://doi.org/10.1016/j.softx.2022.101299} // TODO CHANGE
 }
 ```
 
