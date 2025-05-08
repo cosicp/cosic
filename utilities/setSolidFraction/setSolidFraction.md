@@ -10,7 +10,7 @@ parent: Utilities
 <br>
 
 ![alt text](images/particles.gif)
-<img align="right"  width="200"  src="images/banner1.png"> <br> 
+<img align="right"  width="400"  src="images/banner1.png"> <br> 
 
 <img align="left"   src="images/banner2.png"> 
 
