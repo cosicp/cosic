@@ -9,6 +9,12 @@ nav_order: 1
 
 <br>
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Build and test](https://github.com/solids4foam/solids4foam/actions/workflows/buildAndTest.yml/badge.svg?branch=development)](https://github.com/solids4foam/solids4foam/actions/workflows/buildAndTest.yml)
+[![Pull Requests](https://img.shields.io/github/issues-pr-raw/solids4foam/solids4foam?label=Pull%20Requests)](https://github.com/solids4foam/solids4foam/pulls)
+[![Issues](https://img.shields.io/github/issues/solids4foam/solids4foam?label=Issues)](https://github.com/solids4foam/solids4foam/issues)
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.07407/status.svg)](https://doi.org/10.21105/joss.07407)
+
 # Welcome
 
 Welcome to the landing page of the **Laser Melting Suite**. This is a collection of solvers for OpenFOAM, which are used to solve various problems in computational fluid dynamics (CFD) and other fields. The solvers are designed to be easy to use and flexible, allowing users to customize them for their specific needs.
